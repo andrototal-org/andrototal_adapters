@@ -1,0 +1,3 @@
+[submodule "andropilot"]
+	path = andropilot
+	url = git@bitbucket.org:andrototal/andropilot.git
